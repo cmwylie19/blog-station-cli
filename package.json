@@ -14,7 +14,11 @@
   "devDependencies": {
     "mocha": "^5.2.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "yargs": "^12.0.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cmwylie19/blog-station-cli.git"
