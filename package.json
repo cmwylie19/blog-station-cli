@@ -1,0 +1,30 @@
+{
+  "name": "blog-station-cli",
+  "version": "1.0.0",
+  "description": "command line interface for block station",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "Case M Wylie",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmwylie19/blog-station-cli.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/cmwylie19/blog-station-cli/issues"
+  },
+  "homepage": "https://github.com/cmwylie19/blog-station-cli#readme"
+}
